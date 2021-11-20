@@ -8,20 +8,20 @@
 
 <br/>
 <div align="center">
-    <a href="https://github.com/YoungTrep/project_name">
+    <a href="https://github.com/author/project_name">
         <img src="images/logo.png" alt="Logo" width="80" height="80">
     </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">project_name</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/author/project_name"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/author/project_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/author/project_name/issues">Request Feature</a>
   </p>
 </div>
 
@@ -98,7 +98,7 @@ import project_name
 - [] Feature 2
     - [] Nested Feature
 
-Please refer to [open issues](https://github.com/YoungTrep/project_name/issues) for a larger list of proposed features (and know issues)
+Please refer to [open issues](https://github.com/author/project_name/issues) for a larger list of proposed features (and know issues)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -120,8 +120,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-- On **Twitter** - [trep_young](https://twitter.com/trep_young)
-- On **Discord** - YoungTrep#1342
+- On **Twitter** - [author](https://twitter.com/author)
+- On **Discord** - discord_tag
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -133,13 +133,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/YoungTrep/project_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/YoungTrep/project_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/YoungTrep/project_name.svg?style=for-the-badge
-[forks-url]: https://github.com/YoungTrep/project_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/YoungTrep/project_name.svg?style=for-the-badge
-[stars-url]: https://github.com/YoungTrep/project_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/YoungTrep/project_name.svg?style=for-the-badge
-[issues-url]: https://github.com/YoungTrep/project_name/issues
-[license-shield]: https://img.shields.io/github/license/YoungTrep/project_name.svg?style=for-the-badge
-[license-url]: https://github.com/YoungTrep/project_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/author/project_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/author/project_name/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/author/project_name.svg?style=for-the-badge
+[forks-url]: https://github.com/author/project_name/network/members
+[stars-shield]: https://img.shields.io/github/stars/author/project_name.svg?style=for-the-badge
+[stars-url]: https://github.com/author/project_name/stargazers
+[issues-shield]: https://img.shields.io/github/issues/author/project_name.svg?style=for-the-badge
+[issues-url]: https://github.com/author/project_name/issues
+[license-shield]: https://img.shields.io/github/license/author/project_name.svg?style=for-the-badge
+[license-url]: https://github.com/author/project_name/blob/master/LICENSE.txt
